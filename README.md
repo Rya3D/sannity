@@ -1,6 +1,8 @@
 # THIS IS NOT A GOOD SOLUTION, ITS A PERSONAL SOLUTION
 Zero optimizations done to make it faster, every other solution is just that slow to start up
+
 A large amount of strokes will use a considerable amount of cpu
+
 It does not compile into a native wayland version as raylib-odin doesnt support it, though you can recompile the raylib odin vendor package to support wayland instead
 
 # Dependencies
